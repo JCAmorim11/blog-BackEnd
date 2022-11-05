@@ -1,0 +1,22 @@
+{
+    "posts": [ 
+        {
+            "id":1,
+            "nome": "Juri",
+            "mensagem": "Bem vindo ao BROGUII"
+        },{
+            "id": 2,
+            "nome": "Frederico",
+            "mensagem": "Mensagem nova 1"
+
+        },{
+            "id": 3,
+            "nome": "Machado",
+            "mensagem": "Veja as boas novas que se apresentam no horizonte"
+        },{
+          "id": 4,
+          "nome": "juri",
+          "mensagem": "Um dois tres, testando!!!!!!!!!!!!!!!!!!!"
+        }
+    ]
+}
